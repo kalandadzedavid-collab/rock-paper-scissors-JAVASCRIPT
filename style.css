@@ -24,7 +24,7 @@ body {
   top: 0;
   left: 0;
 }
-@media (min-width: 500px) {
+@media (min-width: 768px) {
   .modal {
     display: flex;
     justify-content: center;
@@ -44,7 +44,7 @@ body {
   text-align: center;
   justify-content: space-between;
 }
-@media (min-width: 500px) {
+@media (min-width: 768px) {
   .modal .modaldiv {
     width: 400px;
     height: 415px;
@@ -87,7 +87,7 @@ header {
   align-items: center;
   justify-content: space-between;
 }
-@media (min-width: 500px) {
+@media (min-width: 768px) {
   header {
     width: 700px;
     height: 150px;
@@ -169,7 +169,7 @@ main .items {
   width: 100%;
   position: relative;
 }
-@media (min-width: 500px) {
+@media (min-width: 768px) {
   main .items svg {
     width: 198px !important;
     height: 194px !important;
@@ -206,7 +206,7 @@ main .pickedspells {
   justify-content: space-between;
   width: 100%;
 }
-@media (min-width: 500px) {
+@media (min-width: 768px) {
   main .pickedspells {
     width: 700px;
   }
@@ -242,7 +242,7 @@ main .decision {
   margin-top: 62px;
   text-align: center;
 }
-@media (min-width: 500px) {
+@media (min-width: 768px) {
   main .decision {
     margin-top: -10px;
   }
